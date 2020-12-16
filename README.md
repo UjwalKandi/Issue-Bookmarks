@@ -1,5 +1,5 @@
 # Issue-Bookmarks
-List of interesting articles/websites on different topics related to data science and data visualization.
+List of interesting articles/websites/tools on different topics varying from data science to photography.
 
 ## About
 
