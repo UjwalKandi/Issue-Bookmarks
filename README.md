@@ -1,9 +1,9 @@
 # Issue-Bookmarks
-List of interesting articles/websites/tools on different topics varying from data science to photography.
+List of interesting articles/websites/tools on topics varying from data science to photography.
 
 ## About
 
-A repository for organizing different topics of machine learning articles in the form of Github's Issues. This idea is inspired by [this arXivTimes repository](https://github.com/yutarochan/arXivTimes) on summarizing machine learning papers. The article of this repo can be found [here](https://towardsdatascience.com/how-to-organize-your-data-science-articles-with-github-b5b9427dad37?source=friends_link&sk=4dfb338164ad6e95809d943f0dc0578e)
+A repository for organizing bookmarks on different topics in the form of Github's Issues. This idea is inspired by [this arXivTimes repository](https://github.com/yutarochan/arXivTimes) on summarizing machine learning papers. The article of this repo can be found [here](https://towardsdatascience.com/how-to-organize-your-data-science-articles-with-github-b5b9427dad37?source=friends_link&sk=4dfb338164ad6e95809d943f0dc0578e)
 
 The website of this repo could be found [here](https://khuyentran1401.github.io/machine-learning-articles/)
 
