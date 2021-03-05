@@ -3,9 +3,7 @@ List of interesting articles/websites/tools on topics varying from data science 
 
 ## About
 
-A repository for organizing bookmarks on different topics in the form of Github's Issues. This idea is inspired by [this arXivTimes repository](https://github.com/yutarochan/arXivTimes) on summarizing machine learning papers. The article of this repo can be found [here](https://towardsdatascience.com/how-to-organize-your-data-science-articles-with-github-b5b9427dad37?source=friends_link&sk=4dfb338164ad6e95809d943f0dc0578e)
-
-The website of this repo could be found [here](https://khuyentran1401.github.io/machine-learning-articles/)
+A repository for organizing bookmarks on different topics in the form of Github Issues. This idea is inspired by [this arXivTimes repository](https://github.com/yutarochan/arXivTimes) on summarizing machine learning papers. The article of this repo can be found [here](https://towardsdatascience.com/how-to-organize-your-data-science-articles-with-github-b5b9427dad37?source=friends_link&sk=4dfb338164ad6e95809d943f0dc0578e)
 
 ![image](https://github.com/khuyentran1401/machine-learning-articles/blob/master/images/Screenshot%202020-04-10%2013.15.39.png?raw=True)
 ## Motivation
@@ -27,17 +25,15 @@ Keeping track of articles in this repository comes with multiple benefits:
 ![image](https://github.com/khuyentran1401/machine-learning-articles/blob/master/images/Screenshot%202020-04-10%2013.16.33.png)
 
 ## How to Contribute
-
 ### Format
-To contribute a paper, please follow the format listed below:
+To contribute an issue, please follow the format listed below:
 
-* For articles that you would like to contribute, please create a new "Issue". **A template will be created** as you create a new issue. All you need is to fill in the section
-* Use the name of the article as the title of the Issues.
+* A website that you would like to contribute, please create a new "Issue". **A template will be created** as you create a new issue. All you need is to fill in the section
+* Use the name of the website as the title of the Issues.
 * Use the following guidelines when submitting a new entry (Feel free to **skip any section** that is not relevant to what you are looking for):
   * **TL;DR** - A quick short sentence summary of the paper.
-  * **Link to the article.**
-  * **Author**
-  * **Key Takeaways** - parts of the articles that you find useful.
+  * **Link to the website.**
+  * **Key Takeaways** - parts of the website(resources) that you find useful.
   * **Useful Code Snippets** - useful codes that you want to save for later
   * **Useful Tools** - useful tools that you want to try out or integrate into your workflow
   * **Comments/Questions** - Your thoughts or questions on the articles. 
