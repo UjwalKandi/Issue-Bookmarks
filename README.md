@@ -76,8 +76,3 @@ To contribute an issue, please follow the format listed below:
 ### How to
 #### Add image
 Adding image can be helpful to know what the article about. Simply copy the address of the image in the website and use `![image description](link to the image)` to add image to your issue!
-
-
-*For proposing any meta-level changes to this repository, such as adding more tags, changing the template format, please create a new issue using the `proposal` tag and provide us with your feedback!*
-
-
