@@ -22,7 +22,7 @@ Keeping track of articles in this repository comes with multiple benefits:
 * The art of summarizing will help you to **retain and comprehend** the information better
 * **Save the time** of going through low-quality article by looking at the articles others enjoy
 * **Ask questions** or express your opinons on the articles in the comment section of Issues
-![image](https://github.com/khuyentran1401/machine-learning-articles/blob/master/images/Screenshot%202020-04-10%2013.16.33.png)
+![image](https://github.com/UjwalKandi/Issue-Bookmarks/blob/master/Images/Issue-Bookmarks-2.png)
 
 ## How to Contribute
 ### Format
