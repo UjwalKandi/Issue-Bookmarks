@@ -41,7 +41,7 @@ To contribute an issue, please follow the format listed below:
     * What issues you have while trying to follow the codes or setup in the article?
     * What parts of the articles that you are puzzling about?
     
-*The general template to be used can be found [here](./ISSUE_TEMPLATE.md). Sample example of an issue can be found [here](https://github.com/khuyentran1401/machine-learning-articles/issues/3)*   
+*The general template to be used can be found [here](./Issue-Bookmarks/issues/11). Sample example of an issue can be found [here](https://github.com/khuyentran1401/machine-learning-articles/issues/3)*   
 ![image](https://github.com/khuyentran1401/machine-learning-articles/blob/master/images/Screenshot%202020-04-10%2013.47.16.png)
 
 
