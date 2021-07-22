@@ -42,7 +42,7 @@ To contribute an issue, please follow the format listed below:
     * What parts of the articles that you are puzzling about?
     
 *The general template to be used can be found [here](https://github.com/UjwalKandi/Issue-Bookmarks/issues/11). Sample example of an issue can be found [here](https://github.com/khuyentran1401/machine-learning-articles/issues/3)*   
-![image](https://github.com/UjwalKandi/Issue-Bookmarks/blob/ae0a25a4c9e8c687c6d1e4ab76436b3a861f6dae/Images/Issue-Bookmarks-3.png)
+![image](https://github.com/UjwalKandi/Issue-Bookmarks/blob/master/Images/Issue-Bookmarks-3.png)
 
 
 ### Tips  
