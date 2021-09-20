@@ -1,5 +1,5 @@
 # Issue-Bookmarks 🔖
-List of interesting articles on topics or websites/tools varying from data science to photography.
+List of interesting articles or websites/tools on topics varying from data science to photography.
 
 ## About
 
