@@ -3,16 +3,16 @@ List of interesting articles/websites/tools on topics varying from data science 
 
 ## About
 
-A repository for organizing bookmarks on different topics in the form of Github Issues. This idea was inspired by [Khuyen Tran's repo](https://github.com/khuyentran1401/machine-learning-articles), which was originally inspired by [this arXivTimes repository](https://github.com/yutarochan/arXivTimes) on summarizing machine learning papers. The article of this repo can be found [here](https://towardsdatascience.com/how-to-organize-your-data-science-articles-with-github-b5b9427dad37?source=friends_link&sk=4dfb338164ad6e95809d943f0dc0578e)
+A repository for organizing bookmarks on different topics in the form of Github Issues. This project was inspired by [Khuyen Tran's repo](https://github.com/khuyentran1401/machine-learning-articles), which was originally inspired by [this arXivTimes repository](https://github.com/yutarochan/arXivTimes) on summarizing machine learning papers. The article of this repo can be found [here](https://towardsdatascience.com/how-to-organize-your-data-science-articles-with-github-b5b9427dad37?source=friends_link&sk=4dfb338164ad6e95809d943f0dc0578e)
 
 ![image](https://github.com/UjwalKandi/Issue-Bookmarks/blob/master/Images/Issue-Bookmarks-1.png?raw=True)
 ## Motivation
 
-Have you ever read an interesting article and want to keep it somewhere for future reference or share it with your friends? If you are successfully keeping it in a folder, it will be easily forgetten and hard to find that particular article in your pile of articles. 
+Have you ever read an interesting article or have come across a fascinating website and wanted to save it somewhere for future reference or share it with your friends? If you have successfully bookmarked it on your browser, it will be easily forgotten or will be hard to find that particular link in your pile of bookmarks.
 
 ## Solution
 
-Use this repository as a way to **keep track of your favorite articles as well as see what other interesting articles that people are reading**. 
+Use this repository as a way to **keep track of your favorite sites/articles as well as see what other interesting articles that people are reading**. 
 
 ## Why should you Contribute?
 Keeping track of articles in this repository comes with multiple benefits:
