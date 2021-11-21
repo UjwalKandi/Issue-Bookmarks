@@ -23,7 +23,7 @@ Keeping track of articles in this repository comes with multiple benefits:
 * **Save the time** of going through low-quality article by looking at the articles others enjoy
 * **Ask questions** or express your opinons on the articles in the comment section of Issues
 
-![image](https://github.com/UjwalKandi/Issue-Bookmarks/blob/master/Images/Issue-Bookmarks-2.png)
+![image](https://github.com/UjwalKandi/Issue-Bookmarks/blob/master/Images/Issue-Bookmarks-2.png?raw=True)
 
 ## How to Contribute
 ### Format
@@ -43,7 +43,7 @@ To contribute an issue, please follow the format listed below:
     * What parts of the articles that you are puzzling about?
     
 *The general template to be used can be found [here](https://github.com/UjwalKandi/Issue-Bookmarks/issues/11). Sample example of an issue can be found [here](https://github.com/khuyentran1401/machine-learning-articles/issues/3)*   
-![image](https://github.com/UjwalKandi/Issue-Bookmarks/blob/master/Images/Issue-Bookmarks-3.png)
+![image](https://github.com/UjwalKandi/Issue-Bookmarks/blob/master/Images/Issue-Bookmarks-3.png?raw=True)
 
 
 ### Tips  
